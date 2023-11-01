@@ -26,3 +26,5 @@ chatgpt에 물어본 결과
 [chargpt로 가기](https://chat.openai.com/)
 
 
+# 내가 수정해줬어
+**담타 ㄱ?**
